@@ -1,0 +1,15 @@
+Error:2020/05/15 14:17:29 member.go:25: Key: 'Member.IdCard' Error:Field validation for 'IdCard' failed on the 'required' tag
+Error:2020/05/15 14:25:45 member.go:25: Key: 'Member.IdCard' Error:Field validation for 'IdCard' failed on the 'required' tag
+Error:2020/05/15 14:26:34 member.go:30: EOF
+Error:2020/05/15 15:47:33 member.go:25: <nil>
+Error:2020/05/15 15:50:49 member.go:25: Key: 'Member.Mobile' Error:Field validation for 'Mobile' failed on the 'phoneValid' tag
+Error:2020/05/15 16:14:00 member.go:26: Key: 'Member.Mobile' Error:Field validation for 'Mobile' failed on the 'phoneValid' tag
+Error:2020/05/15 16:14:20 member.go:26: Key: 'Member.Name' Error:Field validation for 'Name' failed on the 'required' tag
+Error:2020/05/15 16:14:40 member.go:26: Key: 'Member.IdCard' Error:Field validation for 'IdCard' failed on the 'len' tag
+Error:2020/05/15 16:14:48 member.go:26: Key: 'Member.Age' Error:Field validation for 'Age' failed on the 'lt' tag
+Key: 'Member.IdCard' Error:Field validation for 'IdCard' failed on the 'len' tag
+Error:2020/05/15 16:14:54 member.go:26: Key: 'Member.Age' Error:Field validation for 'Age' failed on the 'lt' tag
+Key: 'Member.IdCard' Error:Field validation for 'IdCard' failed on the 'len' tag
+Error:2020/05/15 16:15:42 member.go:26: Key: 'Member.Age' Error:Field validation for 'Age' failed on the 'lt' tag
+Key: 'Member.IdCard' Error:Field validation for 'IdCard' failed on the 'len' tag
+Error:2020/05/15 16:15:48 member.go:26: Key: 'Member.Age' Error:Field validation for 'Age' failed on the 'lt' tag
